@@ -289,6 +289,49 @@
             ]
         },
         {
+            "pakku_id": "pSRNorXZrwfkbcFN",
+            "pakku_links": [
+                "yLSfRN69vcd1WJm9"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "continuity"
+            },
+            "name": {
+                "modrinth": "Continuity"
+            },
+            "id": {
+                "modrinth": "1IjD5062"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "continuity-3.0.1-beta.2+1.21.10.jar",
+                    "mc_versions": [
+                        "1.21.10"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/1IjD5062/versions/7JbPpQnu/continuity-3.0.1-beta.2+1.21.10.jar",
+                    "id": "7JbPpQnu",
+                    "parent_id": "1IjD5062",
+                    "hashes": {
+                        "sha512": "1a3bc81518720290a060fe0a4ab1ccbffd82b229e067cc71f827eca91b8b11adcc6c62a3f57f3184d85c52ceb1b173ca4da564bfbfc5902e2f4a038efcdd5739",
+                        "sha1": "071e6ceddabeaf0277c8643d611f1aa0ed167be3"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 994514,
+                    "date_published": "2025-11-10T01:21:03.856351Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "hcvY8kAAHdXxTmn2",
             "pakku_links": [
                 "yLSfRN69vcd1WJm9"
