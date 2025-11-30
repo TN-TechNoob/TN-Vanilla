@@ -649,6 +649,44 @@
             ]
         },
         {
+            "pakku_id": "VDeZe2fSbje7tGln",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "journeymap"
+            },
+            "name": {
+                "modrinth": "JourneyMap"
+            },
+            "id": {
+                "modrinth": "lfHFW1mp"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "journeymap-fabric-1.21.10-6.0.0-beta.54.jar",
+                    "mc_versions": [
+                        "1.21.10"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/lfHFW1mp/versions/66NSZBxq/journeymap-fabric-1.21.10-6.0.0-beta.54.jar",
+                    "id": "66NSZBxq",
+                    "parent_id": "lfHFW1mp",
+                    "hashes": {
+                        "sha512": "992419555e29df3e4a4d3ea355967cb623c237de960b8ce3a2b1d1b3ad37c970d4fd142c4f6a4dad6cd2f030516184192a3697550e73bf8acc3b21f719750ad4",
+                        "sha1": "9cadc1b765f19930ae607a125f51750495abd1ce"
+                    },
+                    "required_dependencies": [],
+                    "size": 3609586,
+                    "date_published": "2025-11-13T19:15:54.072281Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "h804ZU2bAAkBIUkm",
             "pakku_links": [
                 "yLSfRN69vcd1WJm9"
