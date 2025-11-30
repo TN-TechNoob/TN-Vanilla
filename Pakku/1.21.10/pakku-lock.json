@@ -1027,6 +1027,52 @@
             ]
         },
         {
+            "pakku_id": "WWdyHKxv5Ul9y8yo",
+            "pakku_links": [
+                "yLSfRN69vcd1WJm9",
+                "XZ1p8er5dJw3ltsX",
+                "6usI0f2PXLtuTZuS"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "oneclickcrafting"
+            },
+            "name": {
+                "modrinth": "One Click Crafting"
+            },
+            "id": {
+                "modrinth": "iswuGKgg"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "one-click-crafting-1.8.7+1.21.9.jar",
+                    "mc_versions": [
+                        "1.21.10"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/iswuGKgg/versions/bDaQxpRG/one-click-crafting-1.8.7+1.21.9.jar",
+                    "id": "bDaQxpRG",
+                    "parent_id": "iswuGKgg",
+                    "hashes": {
+                        "sha512": "a87415b1ee9a06444ccae02c8f73bd87441e0dbc9394128ab3739d2f65b2f844d2522041f79dff2c28a8605af64b8a03e4394a077fbe09c09103b3dc8820407d",
+                        "sha1": "a18888464beb4a881b34457e7b43b1a8e298343d"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH",
+                        "mOgUt4GM",
+                        "1eAoo2KR"
+                    ],
+                    "size": 26774,
+                    "date_published": "2025-10-16T05:23:42.506699Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "NV5sg9mwoX6uo7e7",
             "pakku_links": [
                 "Vl962DNaqUmIWOHV"
