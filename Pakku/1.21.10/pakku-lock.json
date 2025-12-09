@@ -490,6 +490,51 @@
             ]
         },
         {
+            "pakku_id": "omhA8DFzWAqGp3Vo",
+            "pakku_links": [
+                "yLSfRN69vcd1WJm9",
+                "SgA3mI3fNf8SL5Nm"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "fastquit"
+            },
+            "name": {
+                "modrinth": "FastQuit"
+            },
+            "id": {
+                "modrinth": "x1hIzbuY"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "fastquit-3.1.2+mc1.21.10.jar",
+                    "mc_versions": [
+                        "1.21.9",
+                        "1.21.10"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/x1hIzbuY/versions/ZgHqClek/fastquit-3.1.2+mc1.21.10.jar",
+                    "id": "ZgHqClek",
+                    "parent_id": "x1hIzbuY",
+                    "hashes": {
+                        "sha512": "5bb4061f46f313741fe8f7a12315b7cc12376982b6660ce1701036aa68f326e4108af778e1c624b452da9445ac5bfc108a005e78eb2bd0ea2ad87dcf0bce4f64",
+                        "sha1": "d173dc167ca729dbb6cd0de3d6c1435c7f665039"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH",
+                        "9s6osm5g"
+                    ],
+                    "size": 61209,
+                    "date_published": "2025-12-02T19:42:07.655022Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "lSi2rnEI8H7kA9OU",
             "type": "MOD",
             "side": "CLIENT",
