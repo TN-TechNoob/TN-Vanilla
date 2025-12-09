@@ -567,6 +567,52 @@
             ]
         },
         {
+            "pakku_id": "PB1v3nD1nUaHHySU",
+            "pakku_links": [
+                "smUi8UCcNSP7J7Km",
+                "MFoCFKLdjdqCUSBD",
+                "yLSfRN69vcd1WJm9"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "inventory-profiles-next"
+            },
+            "name": {
+                "modrinth": "Inventory Profiles Next"
+            },
+            "id": {
+                "modrinth": "O7RBXm3n"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "InventoryProfilesNext-fabric-1.21.10-2.2.1.jar",
+                    "mc_versions": [
+                        "1.21.10"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/mKlfUnZS/InventoryProfilesNext-fabric-1.21.10-2.2.1.jar",
+                    "id": "mKlfUnZS",
+                    "parent_id": "O7RBXm3n",
+                    "hashes": {
+                        "sha512": "bbabec88835b81cdc467c9fbc60e3c19997ba0398d48fc244f35e9487691fb9410c07c2d55df6dcb7dff8133591071d9c1d92e4ca1e5122cf44b39a93ea8c9f5",
+                        "sha1": "5c75203374883343b5946af79b9b1063ce13594f"
+                    },
+                    "required_dependencies": [
+                        "onSQdWhM",
+                        "Ha28R6CL",
+                        "P7dR8mSH"
+                    ],
+                    "size": 1310086,
+                    "date_published": "2025-11-08T19:59:01.489900Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "FbUh5mbzPRat6hCK",
             "pakku_links": [
                 "Vl962DNaqUmIWOHV"
@@ -1554,6 +1600,50 @@
                     "required_dependencies": [],
                     "size": 117098,
                     "date_published": "2025-10-19T20:23:38.062403Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "smUi8UCcNSP7J7Km",
+            "pakku_links": [
+                "yLSfRN69vcd1WJm9",
+                "MFoCFKLdjdqCUSBD"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "libipn"
+            },
+            "name": {
+                "modrinth": "libIPN"
+            },
+            "id": {
+                "modrinth": "onSQdWhM"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "libIPN-fabric-1.21.10-6.6.1.jar",
+                    "mc_versions": [
+                        "1.21.10"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/onSQdWhM/versions/aRTiK8XD/libIPN-fabric-1.21.10-6.6.1.jar",
+                    "id": "aRTiK8XD",
+                    "parent_id": "onSQdWhM",
+                    "hashes": {
+                        "sha512": "af21ef78f7a2460b6634198da57874d1c963037b1226ec90ef5cbd83ff46acfe51d99cea6f7e67c80cb18fc520e2cc9e520a9361378846da00039695952ca9d1",
+                        "sha1": "2fe81986d161e2407ad451d7d942bb43965e0f8e"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH",
+                        "Ha28R6CL"
+                    ],
+                    "size": 642408,
+                    "date_published": "2025-11-08T19:53:24.172065Z"
                 }
             ]
         },
