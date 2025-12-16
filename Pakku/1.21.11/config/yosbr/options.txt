@@ -1,14 +1,12 @@
-version:4556
+version:4671
 
 enableVsync:false
 maxFps:260
-mipmapLevels:0
 
 resourcePacks:["vanilla","fabric","continuity:default","continuity:glass_pane_culling_fix"]
 
 onboardAccessibility:false
 soundCategory_master:0.5
-autoJump:false
 operatorItemsTab:true
 advancedItemTooltips:true
 darkMojangStudiosBackground:true
